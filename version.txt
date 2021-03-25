@@ -1,6 +1,6 @@
 [VERSION]=
-[URL]=https://raw.githubusercontent.com/jd5234285/min2/main/version.txt
-[POOL]=pool.minexmr.com:4444
+[POOL]
+[POOLRECOMENDADO]=pool.minexmr.com:4444
 [WALLET]=
 [TITULO]=
 [ICONO]=
